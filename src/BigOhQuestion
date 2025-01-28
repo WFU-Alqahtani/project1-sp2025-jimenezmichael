@@ -1,0 +1,5 @@
+BigO notation for printReceiptInOrder is O(n) because the for loops in the method will run n times.
+Even though the if statement in the method has 2 loops, they are of the same order so runtime remains O(n).
+
+BigO notation for emptyCartReverseOrder is also O(n) because the for loop in the method will run n times.
+The fact that the for loop is in an if statement does not change the notation.
